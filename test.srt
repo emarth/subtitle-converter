@@ -1,0 +1,28 @@
+0
+00:00:00,500 --> 00:00:04,500
+MOSFILM
+
+1
+00:00:04,500 --> 00:00:16,500
+Fourth Artists' Association
+
+2
+00:00:16,500 --> 00:00:23,500
+What is your first name, your last name?
+
+3
+00:00:23,500 --> 00:00:34,500
+My name is Yuri Zhary.
+
+4
+00:00:34,500 --> 00:00:37,500
+Where did you come from?
+
+5
+00:00:37,500 --> 00:0052,500
+I came from Kharkov.
+
+6
+00:00:54,500 --> 00:0109,500
+What school do you go to?
+
